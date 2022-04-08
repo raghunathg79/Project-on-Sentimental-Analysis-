@@ -23,12 +23,12 @@ plt.style.use('fivethirtyeight')
 
 #all 4 authentication keys to access twitter API
 # to connect as OATH handler or jump server / revers proxy server
-consumer_key = "WqfZmxCmf2uKdD4vxDqKiyKoW"
-consumer_sec = "Jdr9jrgir3nKhPjBK65wuACLGS9L7g7xo7jSUlFQIgxG5OOuUa"
+consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+consumer_sec = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # from proxy server we need to connect
-access_token = "1415638242234273796-6Y7mxl7XYCM68kjeYXm8NQqxITO8Ir"
-access_token_sec = "1espbzxJU7ETKOxHqclef2Ia0SuH0Ko0GkJ4lrEoF7QWE"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token_sec = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #Create the authentication object
 authenticate = tweepy.OAuthHandler(consumer_key, consumer_sec)
